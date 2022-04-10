@@ -1,1 +1,1 @@
-From debian:stretch
+From debian:bullseye

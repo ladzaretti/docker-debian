@@ -1,1 +1,1 @@
-FROM debian:oldoldstable
+FROM debian:stable
